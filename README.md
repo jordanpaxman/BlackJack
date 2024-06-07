@@ -1,1 +1,1 @@
-play black jack and by running the code in your terminal
+play black jack by running the code in your terminal
